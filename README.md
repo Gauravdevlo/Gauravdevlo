@@ -15,7 +15,7 @@
 + 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/gourav-yadavvit/)
 <hr>
 
-## 📊 GitHub Stats  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&repeat=false&width=435&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
 
 | 🔥 Streak Stats  | 💻 GitHub Profile Stats |
 |------------------|-----------------------|
