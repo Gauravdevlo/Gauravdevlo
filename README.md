@@ -19,7 +19,7 @@
 
 | 🔥 Streak Stats  | 💻 GitHub Profile Stats |
 |------------------|-----------------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gauravdevlo&theme=dark)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=transparent&hide_border=true) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Gauravdevlo&theme=dark)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=transparent&hide_border=true) |
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdevlo&layout=donut&card_height=250)](https://github.com/anuraghazra/github-readme-stats)
