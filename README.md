@@ -13,6 +13,7 @@
 + 🎯 Goal: To leverage technology for impactful solutions in Full-Stack Development & AI.
 
 + 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/gourav-yadavvit/)
+<hr>
 
 <!---
 Gauravdevlo/Gauravdevlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
