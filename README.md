@@ -1,11 +1,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F78249&background=FF315400&repeat=false&width=250&lines=Myself+Gourav+Yadav+%2C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09D0F7&background=FF315400&width=435&lines=Hello+there+%F0%9F%91%8B+%2C;I+am+a+Full+stack+developer;and+a+AI%26ML+enthusiast;With+a+Passion+of+coding.)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @Gauravdevlo
-- 👀 I’m interested in app development and sd
-- 🌱 I’m currently learning c++ and java 
-- 💞️ I’m looking to collaborate on game developing projects and app development 
-- 📫 How to reach me --> you can connect me on linkedin-- https://www.linkedin.com/in/gaurav-yadav8420
+-🚀 Aspiring Full-Stack & ML Engineer | Open-Source Contributor
+-🎓 Final-Year CSE Student | VIT Bhopal
+
+-🔹 Full-Stack MERN Developer with a passion for building scalable and efficient applications.
+-🤖 AI/ML Enthusiast, exploring Machine Learning & Deep Learning to solve real-world challenges.
+-🌍 Actively contributing to open-source projects addressing real-life issues.
+-🎯 Goal: To leverage technology for impactful solutions in Full-Stack Development & AI.
+
+-📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/gourav-yadavvit/)
 
 <!---
 Gauravdevlo/Gauravdevlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
