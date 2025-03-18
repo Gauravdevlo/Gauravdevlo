@@ -19,7 +19,7 @@
 
 | 🔥 Streak Stats  | 💻 GitHub Profile Stats |
 |------------------|-----------------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gauravdevlo&theme=dark)](https://git.io/streak-stats) | [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=dark&card_width=450#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=default&card_width=450#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gauravdevlo&theme=dark)](https://git.io/streak-stats) | [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=blux&card_width=450#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=blux&card_width=450#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdevlo&layout=donut&card_height=250)](https://github.com/anuraghazra/github-readme-stats)
 
