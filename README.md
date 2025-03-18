@@ -3,7 +3,6 @@
 
 -🚀 Aspiring Full-Stack & ML Engineer | Open-Source Contributor
 -🎓 Final-Year CSE Student | VIT Bhopal
-
 -🔹 Full-Stack MERN Developer with a passion for building scalable and efficient applications.
 -🤖 AI/ML Enthusiast, exploring Machine Learning & Deep Learning to solve real-world challenges.
 -🌍 Actively contributing to open-source projects addressing real-life issues.
