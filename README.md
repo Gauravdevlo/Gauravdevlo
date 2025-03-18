@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/gaurav-yadav8420"><img src="assets/linkedin.svg" alt="LinkedIn" width="30" height="auto"></a>    <a href="https://leetcode.com/u/gauravleet84/"><img src="assets/leetcode.svg" alt="LeetCode" width="30" height="auto"></a>  
 
----
+--
 
 + 🚀 Aspiring Full-Stack & ML Engineer | Open-Source Contributor
 + 🎓 Final-Year CSE Student | VIT Bhopal
