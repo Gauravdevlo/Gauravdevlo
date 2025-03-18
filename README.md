@@ -19,7 +19,7 @@
 
 | 🔥 Streak Stats  | 💻 GitHub Profile Stats |
 |------------------|-----------------------|
-| ![GitHub Streak](https://img.shields.io/badge/GitHub-Streak-pink?style=for-the-badge) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=transparent&hide_border=true&title_color=E34A86&icon_color=E34A86&text_color=CFCFCF&ring_color=E34A86)|
+| ![GitHub Streak](https://img.shields.io/badge/GitHub-Streak-orange?style=for-the-badge) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=transparent&hide_border=true&title_color=F78104&icon_color=F78104&text_color=CFCFCF&ring_color=F78104)|
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdevlo&layout=donut&card_height=250)](https://github.com/anuraghazra/github-readme-stats)
