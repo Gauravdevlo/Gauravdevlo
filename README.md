@@ -15,7 +15,7 @@
 + 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/gourav-yadavvit/)
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&repeat=false&width=435&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F76044&repeat=false&width=435&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
 
 | 🔥 Streak Stats  | 💻 GitHub Profile Stats |
 |------------------|-----------------------|
@@ -23,7 +23,7 @@
 | ![Most Used](https://img.shields.io/badge/Most-Used-orange?style=for-the-badge)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdevlo&layout=compact&theme=transparent&hide_border=true&title_color=F78104&text_color=CFCFCF)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-## Languages and Tools:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F76044&repeat=false&width=435&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
