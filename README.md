@@ -18,7 +18,6 @@
 <p align="left"><img src="kyubey.gif" width="90" height="45"/><strong style="color:purple; font-size: 24px;">  </strong></p>  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F76044&repeat=false&width=435&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
-
 | 🔥 Streak Stats  | 💻 GitHub Profile Stats |
 |------------------|-----------------------|
 | ![GitHub Streak](https://img.shields.io/badge/GitHub-Streak-orange?style=for-the-badge) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=transparent&hide_border=true&title_color=F78104&icon_color=F78104&text_color=CFCFCF&ring_color=F78104)|
@@ -28,7 +27,6 @@
 <p align="left"><img src="kyubey.gif" width="90" height="45"/><strong style="color:purple; font-size: 24px;">  </strong></p>  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F76044&repeat=false&width=435&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
-
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
