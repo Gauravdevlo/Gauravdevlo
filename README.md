@@ -26,8 +26,8 @@
 
 <p align="left">
     <img src="kyubey.gif" width="90" height="45"/>
+    <strong style="color:purple; font-size: 24px;"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F76044&repeat=false&width=435&lines=Languages+and+Tools%3A)](https://git.io/typing-svg) </strong>
 </p>  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F76044&repeat=false&width=435&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
