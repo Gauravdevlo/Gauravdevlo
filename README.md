@@ -5,7 +5,7 @@
 + 🎓 Final-Year CSE Student | VIT Bhopal
 + 🔹 Full-Stack MERN Developer with a passion for building scalable and efficient applications.
 + 🤖 AI/ML Enthusiast, exploring Machine Learning & Deep Learning to solve real-world challenges.
-+ 🌍 Actively contributing to open-source projects addressing real-life issues.
++ 🌍 Looking for Actively contributing to open-source projects addressing real-life issues.
 + 🎯 Goal: To leverage technology for impactful solutions in Full-Stack Development & AI.
 
 + 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/gourav-yadavvit/)
