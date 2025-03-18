@@ -15,6 +15,7 @@
 
 + 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/gourav-yadavvit/)
 <hr>
+<p align="left"><img src="kyubey.gif" width="90" height="45"/><strong style="color:purple; font-size: 24px;">  </strong></p>  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F76044&repeat=false&width=435&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
 
